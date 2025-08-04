@@ -1,2 +1,1 @@
-# Internship-projects
-In this repo, My  internship project are placed ("Super Market Management System) in desktop application (javafx,css, JDBC)
+"This repository contains a project named ‘SuperMarket Management System’, which uses JavaFX, Scene Builder, FXML, CSS, and JDBC with MySQL as the database technology. The tools used are NetBeans and MySQL. This project was developed during my internship, and I followed the SDLC lifecycle, including: Frontend (wireframing, UI/UX design, JavaFX, CSS), Backend (Java, JDBC, MySQL), and Deployment using GitHub."
